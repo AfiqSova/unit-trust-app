@@ -194,7 +194,7 @@ class AboutPage extends StatelessWidget {
 
             const SizedBox(height: 12),
             const Text(
-              'Developed by:\nJohn Doe\nMatric No: 2023123456\nCourse: CSF553 - Mobile Technology',
+              'Developed by:\nMuhammad Afiq Arif Bin Mohd Idris\nMatric No: 2023197509\nCourse: CS251 5A - Computer Science Netcentric',
               style: TextStyle(fontSize: 16),
               textAlign: TextAlign.center,
             ),
