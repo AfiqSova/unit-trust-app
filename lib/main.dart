@@ -159,7 +159,7 @@ class _HomePageState extends State<HomePage> {
 
 
 class AboutPage extends StatelessWidget {
-  final String githubUrl = 'https://github.com/YOUR_USERNAME/unit-trust-app';
+  final String githubUrl = 'https://github.com/AfiqSova/unit-trust-app';
 
   @override
   Widget build(BuildContext context) {
@@ -194,7 +194,7 @@ class AboutPage extends StatelessWidget {
 
             const SizedBox(height: 12),
             const Text(
-              'Developed by:\nJohn Doe\nMatric No: 2023123456\nCourse: CSF553 - Mobile Technology',
+              'Developed by:\nMuhammad Afiq Arif Bin Mohd Idris\nMatric No: 2023197509\nCourse: CS251 5A - Computer Science Netcentric',
               style: TextStyle(fontSize: 16),
               textAlign: TextAlign.center,
             ),
@@ -204,7 +204,7 @@ class AboutPage extends StatelessWidget {
             const SizedBox(height: 12),
 
             const Text(
-              '© 2025 EcoTrack App\nAll rights reserved.',
+              '© 2025 Afiq Arif\nAll rights reserved.',
               style: TextStyle(fontSize: 14, color: Colors.grey),
               textAlign: TextAlign.center,
             ),
