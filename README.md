@@ -1,16 +1,19 @@
-# unit_trust_calculator
+# Unit Trust Investment Calculator App
 
-A new Flutter project.
+A Flutter mobile app that calculates monthly and total dividends from unit trust investments.
 
-## Getting Started
+## Features
+- Input: Invested Amount, Annual Rate (%), Months
+- Calculation:
+  - Monthly Dividend = (Rate / 12) × Invested Fund
+  - Total Dividend = Monthly × Months
+- Navigation Drawer (Home, About)
+- Responsive UI
+- About Page with app info and GitHub link
 
-This project is a starting point for a Flutter application.
+## Author
+- Name: Muhammad Afiq Arif Bin Mohd Idris
+- Matric No: 2023197509
+- Course: CS251 5A - Computer Science Netcentric
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[View App on GitHub](https://github.com/YOUR_USERNAME/unit-trust-app)
