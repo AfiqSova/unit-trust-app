@@ -98,7 +98,7 @@ Watch the full walkthrough and explanation here:
 | --------------------------------- | ---------- | -------------------------------------- |
 | Muhammad Afiq Arif Bin Mohd Idris | 2023197509 | CS251 5A - Computer Science Netcentric |
 
-GitHub: [https://github.com/YOUR\_USERNAME/unit-trust-app](https://github.com/AfiqSova/unit-trust-app)
+GitHub: [https://github.com/AfiqSova/unit-trust-app](https://github.com/AfiqSova/unit-trust-app)
 
 ---
 
