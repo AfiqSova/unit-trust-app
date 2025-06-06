@@ -1,16 +1,112 @@
-# unit_trust_calculator
+# 📱 Unit Trust Investment Calculator App
 
-A new Flutter project.
+A Flutter mobile app that calculates monthly and total dividends from unit trust investments.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🎯 Objective
 
-A few resources to get you started if this is your first Flutter project:
+To allow users to:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+* Input invested amount, annual dividend rate, and months invested
+* Calculate monthly and total dividend earnings
+* View developer info, GitHub link, and app details in an About Page
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 📸 UI Screenshots
+
+### 🏠 Home Page
+
+| Input & Calculation                     |
+| --------------------------------------- |
+| ![Home Page](screenshots/home_page.png) |
+
+### ✅ Calculation Results
+
+| Output Display                           |
+| ---------------------------------------- |
+| ![Results](screenshots/results_page.png) |
+
+### 📖 About Page
+
+| App Info, Icon, GitHub                    |
+| ----------------------------------------- |
+| ![About Page](screenshots/about_page.png) |
+
+---
+
+## ⚙️ Features
+
+* 📥 Input fields for:
+
+  * Invested amount (RM)
+  * Annual dividend rate (%)
+  * Number of months (Max: 12)
+
+* 📊 Output:
+
+  * Monthly Dividend (2 decimal places)
+  * Total Dividend (2 decimal places)
+
+* 🧭 Navigation Drawer:
+
+  * Home
+  * About
+
+* 📄 About Page includes:
+
+  * App icon
+  * Author info (name, matric, course)
+  * Clickable GitHub repository link
+
+---
+
+## 📂 APK Download
+
+You can download and install the APK here:
+
+👉 [Download APK](https://example.com/downloads/unit-trust-calculator.apk)
+
+> *(Replace with your actual Google Drive / GitHub Release / Dropbox link)*
+
+---
+
+## 🎥 Presentation Video
+
+Watch the full walkthrough and explanation here:
+
+👉 [Watch Video](https://example.com/videos/unit-trust-calculator-presentation.mp4)
+
+> *(Replace with your YouTube or Google Drive link)*
+
+---
+
+## 🔧 Technologies Used
+
+* Flutter SDK
+* Dart Programming Language
+* Android Studio
+* Git & GitHub
+
+---
+
+## 👨‍💻 Author
+
+| Name                              | Matric No  | Course                                 |
+| --------------------------------- | ---------- | -------------------------------------- |
+| Muhammad Afiq Arif Bin Mohd Idris | 2023197509 | CS251 5A - Computer Science Netcentric |
+
+GitHub: [https://github.com/YOUR\_USERNAME/unit-trust-app](https://github.com/YOUR_USERNAME/unit-trust-app)
+
+---
+
+## ✅ Status
+
+✅ Completed – Fully functional and submitted
+
+---
+
+## 📜 License
+
+This project is part of a university assignment and not licensed for commercial use.
