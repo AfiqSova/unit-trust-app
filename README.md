@@ -69,7 +69,7 @@ You can download and install the APK here:
 
 👉 [Download APK](https://drive.google.com/file/d/1bXkEXrXBYhrFyuJqr-I1cdCohT6t1-As/view?usp=sharing)
 
-> *(Replace with your actual Google Drive / GitHub Release / Dropbox link)*
+
 
 ---
 
