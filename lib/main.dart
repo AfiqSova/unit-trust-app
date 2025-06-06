@@ -204,7 +204,7 @@ class AboutPage extends StatelessWidget {
             const SizedBox(height: 12),
 
             const Text(
-              '© 2025 EcoTrack App\nAll rights reserved.',
+              '© 2025 Afiq Arif\nAll rights reserved.',
               style: TextStyle(fontSize: 14, color: Colors.grey),
               textAlign: TextAlign.center,
             ),
